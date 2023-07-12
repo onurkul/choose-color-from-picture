@@ -1,4 +1,4 @@
-# Resimden Renk Seçme
-Bu araç sayesinde resimlerden renkler seçebilir ve kolayca renk kodlarını alabilirsiniz.
+# Choose Color From Picture
+With this tool you can select colors from images and easily get color codes.
 
-Örnek: https://onurkul.com.tr/araclar/resimden-renk-secme/
+Example: https://onurkul.com.tr/araclar/resimden-renk-secme/
